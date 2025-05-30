@@ -1,6 +1,6 @@
 # Sales Dashboard with Authentication & CRUD Operations
 
-A responsive Next.js web app featuring login/registration, data visualization with Highcharts, and full CRUD functionality. Built with Next.js, Tailwind CSS, and MySQL.
+A responsive Next.js web app featuring login/registration, data visualization with Highcharts, and full CRUD functionality. Built with Next.js
 
 **Live Demo:** [https://v0-web-app-challenge.vercel.app/](https://v0-web-app-challenge.vercel.app/)  
 
@@ -21,14 +21,13 @@ A responsive Next.js web app featuring login/registration, data visualization wi
 ### Edit Data Modal
 ![Edit Data](https://github.com/DynastyElvis/ratemyservice-sales-dahboard/raw/main/public/screenshots/Screen%20Shot%202025-05-30%20at%2014.14.56.png)
 
-### Mobile Responsiveness
+### Bar Charts
 ![Mobile View](https://github.com/DynastyElvis/ratemyservice-sales-dahboard/raw/main/public/screenshots/Screen%20Shot%202025-05-30%20at%2014.15.05.png)
 
 ## Features
 - ✅ **JWT Authentication** (Login/Register)
 - 📊 **Interactive Highcharts** with real-time updates
 - 🔄 **Full CRUD Operations** (Create, Read, Update, Delete)
-- 🗃️ **MySQL Database** for data persistence
 - ⚡ **Next.js 14** (App Router, Server Actions)
 - 📱 **Mobile-First** responsive design
 
@@ -36,7 +35,6 @@ A responsive Next.js web app featuring login/registration, data visualization wi
 - **Framework:** Next.js 14
 - **Frontend:** React, Highcharts, Tailwind CSS
 - **Backend:** Next.js API Routes
-- **Database:** MySQL (hosted on PlanetScale/Vercel Postgres)
 - **Auth:** Next-Auth/JWT
 - **Deployment:** Vercel (Full-stack)
 
