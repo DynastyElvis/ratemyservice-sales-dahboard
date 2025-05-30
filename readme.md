@@ -1,6 +1,6 @@
 # Sales Dashboard with Authentication & CRUD Operations
 
-A responsive web app featuring login/registration, data visualization with Highcharts, and full CRUD functionality. Built with Vue.js, Node.js, and MySQL.
+A responsive Next.js web app featuring login/registration, data visualization with Highcharts, and full CRUD functionality. Built with Next.js, Tailwind CSS, and MySQL.
 
 **Live Demo:** [https://v0-web-app-challenge.vercel.app/](https://v0-web-app-challenge.vercel.app/)  
 
@@ -29,13 +29,16 @@ A responsive web app featuring login/registration, data visualization with Highc
 - 📊 **Interactive Highcharts** with real-time updates
 - 🔄 **Full CRUD Operations** (Create, Read, Update, Delete)
 - 🗃️ **MySQL Database** for data persistence
-- 📱 **Mobile-Friendly** design
+- ⚡ **Next.js 14** (App Router, Server Actions)
+- 📱 **Mobile-First** responsive design
 
 ## Tech Stack
-- **Frontend:** Vue.js 3, Highcharts, Tailwind CSS
-- **Backend:** Node.js, Express
-- **Database:** MySQL
-- **Deployment:** Vercel (Frontend), Render (Backend)
+- **Framework:** Next.js 14
+- **Frontend:** React, Highcharts, Tailwind CSS
+- **Backend:** Next.js API Routes
+- **Database:** MySQL (hosted on PlanetScale/Vercel Postgres)
+- **Auth:** Next-Auth/JWT
+- **Deployment:** Vercel (Full-stack)
 
 ## Setup
 1. Clone the repo:
